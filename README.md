@@ -1,4 +1,4 @@
-# Art-Master-Workspace-Total-Carnage
+# -Master-Workspace-Total-Carnage
 The archive for all things pertaining to BioCarnage's art
 
 Housekeeping Rules:
@@ -9,3 +9,4 @@ Note: If you would like to make a pass at anothers' work, be sure to use the sam
 Online Resources
 
 Youtube (Project-wide): https://www.youtube.com/channel/UC4EKHtLlnA1eoCceeyYv6Ig/playlists
+OpenGameArt - Great place for finding free to use assets: https://opengameart.org/
