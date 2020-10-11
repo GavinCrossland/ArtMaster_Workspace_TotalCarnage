@@ -1,4 +1,4 @@
-# -Master-Workspace-Total-Carnage
+# Art-Master-Workspace-Total-Carnage
 The archive for all things pertaining to BioCarnage's art
 
 Housekeeping Rules:
